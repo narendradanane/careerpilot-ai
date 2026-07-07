@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+@import "tailwindcss";
 @import "tailwindcss";
 
 /* Reset */
@@ -14,7 +16,7 @@ html {
 
 /* Body */
 body {
-  font-family: Inter, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   background: #f8fafc;
   color: #0f172a;
 }
